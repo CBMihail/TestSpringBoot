@@ -18,5 +18,4 @@ public class DemoApplication {
 	public String helloWorld(){
 		return "HELLO WORLD CI/CD";
 	}
-
 }
