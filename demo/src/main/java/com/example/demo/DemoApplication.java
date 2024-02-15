@@ -16,7 +16,7 @@ public class DemoApplication {
 
 	@GetMapping
 	public String helloWorld(){
-		return "HELLO WORLD";
+		return "HELLO WORLD CI/CD";
 	}
 
 }
